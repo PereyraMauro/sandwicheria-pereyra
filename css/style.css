@@ -28,6 +28,6 @@ h1 {
 
 @media (max-width: 650px){
     .hola-mundo {
-        background-color: burlywood;
+        background-color: rgb(138, 119, 95);
     }
 }
