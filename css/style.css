@@ -13,7 +13,7 @@ h1 {
     background-color: antiquewhite;
     text-align: center;
     max-width: 650px;
-    margin: 15px auto;
+    margin: 20px auto;
 }
 
 @media (max-width: 650px){
