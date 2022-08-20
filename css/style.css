@@ -6,7 +6,12 @@
 
 h1 {
     font-family: sans-serif;
-    color: blue;
+    color: rgb(69, 69, 117);
+}
+
+h2 {
+    font-family: sans-serif;
+    color: rgb(107, 60, 151);
 }
 
 .hola-mundo {
