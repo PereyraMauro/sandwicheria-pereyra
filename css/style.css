@@ -21,16 +21,6 @@ h2 {
     margin: 20px auto;
 }
 
-.grid-index {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-}
-
-.grid-index img {
-    padding: 5px;
-}
-
 @media (max-width: 650px){
     .hola-mundo {
         background-color: rgb(138, 119, 95);
