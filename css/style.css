@@ -31,7 +31,11 @@ h2 {
     padding: 5px;
 }
 
-@media (max-width: 650px){
+.grid-index img:hover {
+    transform: rotate(-10deg);
+}
+
+>>>>>>>flex-index @media (max-width: 650px) {
     .hola-mundo {
         background-color: rgb(138, 119, 95);
     }
