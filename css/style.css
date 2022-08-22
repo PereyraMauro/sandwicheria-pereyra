@@ -6,7 +6,12 @@
 
 h1 {
     font-family: sans-serif;
-    color: blue;
+    color: rgb(69, 69, 117);
+}
+
+h2 {
+    font-family: sans-serif;
+    color: rgb(107, 60, 151);
 }
 
 .hola-mundo {
@@ -16,8 +21,22 @@ h1 {
     margin: 20px auto;
 }
 
+.grid-index {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.grid-index img {
+    padding: 5px;
+}
+
+.grid-index img:hover {
+    transform: rotate(-10deg);
+}
+
 @media (max-width: 650px){
     .hola-mundo {
-        background-color: burlywood;
+        background-color: rgb(138, 119, 95);
     }
 }
